@@ -1,0 +1,5 @@
+/vendor/
+/uploads/
+config/db.php
+config/mail_config.php
+.env
