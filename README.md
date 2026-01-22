@@ -8,17 +8,26 @@ This project is ideal for learning full-stack development, college projects, and
 ---
 
 📁 Project Structure
+
 RRV/
-│
+
 ├── admin/          # Admin (Seller) panel
+
 ├── user/           # User-facing storefront
+
 ├── vendor/         # (Reserved / future use)
+
 ├── uploads/        # Uploaded product images
+
 ├── config/         # Database & mail configuration
+
 │   ├── db.php
+
 │   └── mail_config.php
-│
+
+
 ├── .gitignore
+
 └── README.md
 
 ---
